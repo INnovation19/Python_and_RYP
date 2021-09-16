@@ -1,2 +1,1 @@
-# Python
-For python programmers
+Python and RenPy Language!
